@@ -1,0 +1,24 @@
+{
+  "name": "dc-video",
+  "version": "1.0.0",
+  "description": "This is the node version of the video conferencing app project for Don-Clem Technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroTen-Technologies/dc-video.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeroTen-Technologies/dc-video/issues"
+  },
+  "homepage": "https://github.com/ZeroTen-Technologies/dc-video#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
